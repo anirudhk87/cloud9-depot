@@ -32,7 +32,7 @@ vars = {
   "libcxx_trunk":
     "https://github.com/llvm-mirror/libcxx",
   "libcxx_release31":
-    "http://llvm.org/svn/llvm-project/libcxx/tags/RELEASE_33/final",
+    "http://llvm.org/svn/llvm-project/libcxx/tags/RELEASE_31/final",
 }
 
 
