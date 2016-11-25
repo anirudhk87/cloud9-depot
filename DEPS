@@ -28,6 +28,7 @@
 
 # This file is used by gclient to fetch the projects that Cloud9 depends on.
 
+# Currently there is no RELEASE_31 directory for libcxx. Can its reference be removed completely?
 vars = {
   "libcxx_trunk":
     "https://github.com/llvm-mirror/libcxx",
