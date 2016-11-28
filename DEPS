@@ -44,7 +44,7 @@ deps = {
     "git+https://github.com/anirudhk87/cloud9-uclibc.git",
 
   "src/third_party/stp":
-    "git+https://github.com/stp/stp.git@9ab2a59",
+    "git+https://github.com/stp/stp.git@a3e9c09",
   "src/third_party/gyp":
     "git+https://chromium.googlesource.com/external/gyp",
   "src/third_party/boolector":
