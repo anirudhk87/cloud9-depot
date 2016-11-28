@@ -31,7 +31,7 @@
 # Currently there is no RELEASE_31 directory for libcxx. Can its reference be removed completely?
 vars = {
   "libcxx_trunk":
-    "https://github.com/llvm-mirror/libcxx",
+    "git+https://github.com/llvm-mirror/libcxx.git",
   "libcxx_release31":
     "http://llvm.org/svn/llvm-project/libcxx/tags/RELEASE_31/final",
 }
